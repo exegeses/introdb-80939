@@ -30,4 +30,10 @@
 >  tenemos servidores de base de datos de tipo NO relacional (que NO cumplen con álgebra relacional)
 > algunos ejemplos son: 
 
- 
+
+    MongoDB  
+    Redis  
+    Cassandra  
+    Amazon Dynamo  
+    Riak  
+    BigTable  
