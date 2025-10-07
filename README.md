@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
 
 > Curso de Introducción a las Bases de datos |      
-> Martes y Jueves de 0hs a 10hs (Arg) |      
+> Martes y Jueves de 08hs a 10hs (Arg) |      
 > 9 clases |      
 > Desde 07/10/2025 hasta 24/11/2025 |     
 > Código 80939 |    
