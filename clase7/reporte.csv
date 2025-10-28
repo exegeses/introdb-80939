@@ -1,0 +1,33 @@
+idProducto,producto,precio,marca,categoria
+8,"Mouse Logitech MX Master 3",109.00,Logitech,Accesorios
+24,"Parlante Bluetooth JBL Flip 6",119.00,Sony,Accesorios
+14,"Disco SSD Samsung 1TB",119.00,Samsung,Almacenamiento
+30,"Disco externo Seagate 2TB",89.99,Samsung,Almacenamiento
+16,"Auriculares Sony WH-1000XM5",399.00,Sony,Audio
+32,"Barra de sonido LG SN5Y",229.00,LG,Audio
+15,"Cámara Logitech StreamCam",149.00,Logitech,Cámaras
+31,"Cámara Canon EOS M50",699.00,Sony,Cámaras
+12,"Procesador AMD Ryzen 7 5800X",329.99,Samsung,"Componentes de PC"
+28,"Motherboard Asus B550M",149.00,Asus,"Componentes de PC"
+6,"Kit domótica Philips Hue",199.00,Philips,Domótica
+22,"Sensor de movimiento Xiaomi Mi",24.99,Xiaomi,Domótica
+5,"Heladera Samsung No Frost",999.99,Samsung,Electrodomésticos
+21,"Lavarropas Bosch Serie 6",849.99,Bosch,Electrodomésticos
+11,"Consola Sony PlayStation 5",599.00,Sony,Gaming
+27,"Joystick Microsoft Xbox Series X",69.00,Microsoft,Gaming
+13,"Enchufe inteligente TP-Link Tapo",29.99,TP-Link,"Hogar Inteligente"
+29,"Cámara de seguridad Xiaomi Mi 360",54.99,Xiaomi,"Hogar Inteligente"
+1,"Laptop Lenovo IdeaPad 3",749.99,Lenovo,Laptops
+17,"Laptop HP Pavilion 15",829.00,HP,Laptops
+9,"Teclado mecánico Asus ROG Strix",129.00,Asus,Periféricos
+25,"Auriculares Gaming Asus TUF",89.99,Asus,Periféricos
+10,"Router TP-Link AX1500",89.99,TP-Link,Redes
+26,"Extensor de red TP-Link RE450",59.99,TP-Link,Redes
+2,"Smartphone Xiaomi Redmi Note 12",299.99,Xiaomi,Smartphones
+18,"Smartphone Samsung Galaxy S23",899.99,Samsung,Smartphones
+7,"Microsoft Office 365 Personal",79.99,Microsoft,Software
+23,"Windows 11 Home",129.00,Microsoft,Software
+4,"iPad 10ª generación",499.99,Apple,Tablets
+20,"Tablet Amazon Fire HD 10",149.99,Amazon,Tablets
+3,"Televisor LG 55" OLED",1399.00,LG,Televisores
+19,"Smart TV Sony Bravia 65"",1799.00,Sony,Televisores
